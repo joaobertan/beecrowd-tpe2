@@ -1,0 +1,29 @@
+Implementar algoritmos na plataforma beecrowd
+
+Vetores
+1174 - Seleçao em Vetor I
+1175 - Troca em Vetor I
+1176 - Fibonacci em Vetor
+1177 - Preenchimento de Vetor I
+1178 - Preenchimento de Vetor II
+
+Matrizes
+1180 - Menor e Posição
+1181 - Linha na Matriz
+1182 - Coluna na Matriz
+1183 - Acima da Diagonal Principal
+1184 - Abaixo da Diagonal Principal
+
+Funções (com modularização de lógica)
+1165 - Número Primo
+1151 - Fibonacci Fácil
+1047 - Tempo de Jogo com Minutos
+1153 - Fatorial Simples
+1013 - O Maior
+
+Ponteiros
+1020 - Idade em Dias
+1040 - Média 3
+1173 - Preenchimento de Vetor II
+1074 - Par ou Ímpar
+1021 - Notas e Moedas
