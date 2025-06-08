@@ -6,10 +6,10 @@ Este repositório contém resoluções de problemas da plataforma [Beecrowd](htt
 
 ## 📁 Estrutura do Repositório
 
-├── funcoes/ → Exercícios relacionados a funções
-├── matrizes/ → Problemas envolvendo matrizes
-├── ponteiros/ → Exercícios com uso de ponteiros
-├── vetores/ → Problemas com vetores
+- `funcoes/` → Exercícios relacionados a funções  
+- `matrizes/` → Problemas envolvendo matrizes  
+- `ponteiros/` → Exercícios com uso de ponteiros  
+- `vetores/` → Problemas com vetores
 
 ---
 
